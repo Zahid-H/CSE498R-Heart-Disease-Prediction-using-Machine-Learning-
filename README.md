@@ -1,6 +1,6 @@
-# CSE498R-Cardiac-Disease-Prediction-using-Machine-Learning
+# CSE498R-Heart-Disease-Prediction-using-Machine-Learning
 
-#Cardiac Disease Prediction model with 8 Algorithms 
+#Heart Disease Prediction model with 8 Algorithms 
 
 And Random Forest has the best accuracy percentage of 95%
 
